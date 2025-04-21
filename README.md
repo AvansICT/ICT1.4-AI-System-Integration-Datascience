@@ -24,10 +24,3 @@ This notebook focuses on decision trees for multivariate analysis. It covers tra
 
 ### 7. Random forest.ipynb
 This notebook introduces the random forest algorithm for classification and regression tasks. It explains how to train a random forest model, tune hyperparameters, and evaluate the model's performance.
-
-## Getting Started
-
-To get started with these notebooks, you will need to have Python and Jupyter Notebook installed. You can install the required libraries using the following command:
-
-```sh
-conda install pandas seaborn matplotlib scikit-learn
